@@ -35,7 +35,7 @@ st.caption("Framework: Android, Unity, Visual Studio")
 st.header("Todd") 
 st.caption("Game Design Fundamentals (Nov 2019 ~ Mar 2020)") 
 st.write("2D platformer PC game built with emphasis on level design and 2D sprite managements.") 
-st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)") 
+st.markdown("![Alt Text](https://raw.githubusercontent.com/Heeuul/temportfolio/main/demos/ToddDemo.gif)") 
 st.caption("Language: JavaScript") 
 st.caption("Framework: Phaser2, Visual Studio") 
 
