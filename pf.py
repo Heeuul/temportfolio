@@ -1,4 +1,4 @@
 import streamlit as st 
 
-st.header("Aiman Hans Bin Husin") 
-st.subheader("Academic Projects:") 
+st.title("Aiman Hans Bin Husin") 
+st.header("Game Academic Projects:") 
