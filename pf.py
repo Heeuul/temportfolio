@@ -18,7 +18,7 @@ st.caption("Framework: OpenGL")
 
 st.header("Upgrade") 
 st.caption("3D Game Programming (Nov 2020 ~ Mar 2021)") 
-st.write("3D Action platformer game developed to explore the utility of 3D dimensional spaces.") 
+st.write("3D Action platformer game developed to explore the utilities of the Unity Engine.") 
 #st.video("") 
 st.caption("Language: C#") 
 st.caption("Framework: Unity, Visual Studio") 
