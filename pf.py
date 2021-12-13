@@ -3,15 +3,11 @@ from PIL import Image
 
 st.title("Game Academic Projects") 
 
-img1 = Image.open("demos/IMG_9514.HEIC") 
-st.image(img1) 
-
 st.header("VR Healthcare System for Patients with Trypanophobia") 
 st.caption("Final Year Project (Jul 2020 ~ Mar 2021)") 
 st.write("Virtual reality game which combats needle fear among pediatric patients.") 
-v1 = open("demos/FYPDemo.mov", "rb") 
-v1_bytes = v1.read() 
-st.video(v1_bytes) 
+vid1 = open("demos/FYPDemo.mov", "rb") 
+st.video(vid1) 
 st.caption("Language: C#") 
 st.caption("Framework: Google VR SDK, Unity, Visual Studio") 
 
