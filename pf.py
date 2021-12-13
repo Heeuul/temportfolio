@@ -7,7 +7,7 @@ st.header("VR Healthcare System for Patients with Trypanophobia")
 st.caption("Final Year Project (Jul 2020 ~ Mar 2021)") 
 st.write("Virtual reality game which combats needle fear among pediatric patients.") 
 vid1 = open("demos/FYPDemo.mov", "rb") 
-st.video(vid1) 
+st.video(vid1, format = "video/quicktime") 
 st.caption("Language: C#") 
 st.caption("Framework: Google VR SDK, Unity, Visual Studio") 
 
