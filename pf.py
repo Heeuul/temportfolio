@@ -16,7 +16,7 @@ st.caption("Game Physics (Nov 2020 ~ Mar 2021)")
 st.write("2D sci-fi game built to simulate physics algorithm in games.") 
 st.image("demos/LostRobotDemo.gif") 
 st.caption("Language: C++") 
-st.caption("Framework: OpenGL") 
+st.caption("Framework: Box2D, SFML, OpenGL") 
 
 st.header("Upgrade") 
 st.caption("3D Game Programming (Nov 2020 ~ Mar 2021)") 
