@@ -35,7 +35,7 @@ st.caption("Framework: Android, Unity, Visual Studio")
 st.header("Todd") 
 st.caption("Game Design Fundamentals (Nov 2019 ~ Mar 2020)") 
 st.write("2D platformer web game built with emphasis on level design and 2D sprite managements.") 
-st_player("https://github.com/Heeuul/temportfolio/blob/main/demos/ToddDemo.mov?raw=true") 
+st_player("https://nd7fkg.dm.files.1drv.com/y4mMK8ihDVuBSXJjUJi2B9285juzxc9WK_NVOWE5SUsx5RSED3t9dhdfwMzCKcgGNfhH51mm0Z-r4YQFcm2iBaxuMDVLhw5-3DB_iDkSq2lebXdL-vw_wlKgECrkcZkQBf1WedL3vdPt4tirolQiRiPZaNKkGibpQW2d6i65Mpbjsz2I7Q46znhjBHtPfVQSg2EGtXviaFRxxIpdhKV2xvPqA") 
 st.caption("Language: JavaScript") 
 st.caption("Framework: Phaser2, Visual Studio") 
 
