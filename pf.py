@@ -14,7 +14,7 @@ st.caption("Framework: Google VR SDK, Unity, Visual Studio")
 st.header("Lost Robot") 
 st.caption("Game Physics (Nov 2020 ~ Mar 2021)") 
 st.write("2D sci-fi game built to simulate physics algorithm in games.") 
-#st_player("") 
+st.image("demos/LostRobotDemo.gif") 
 st.caption("Language: C++") 
 st.caption("Framework: OpenGL") 
 
