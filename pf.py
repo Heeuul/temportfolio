@@ -57,7 +57,7 @@ with col2:
 st.header("Violet World") 
 st.caption("Computer Graphic Fundamentals (Nov 2019 ~ Mar 2020)") 
 st.write("Imaginative 3D world of outer space fully built with program codes.") 
-#st_player("") 
+st.image("demos/VioletWorldDemo.gif") 
 col1, col2 = st.columns(2) 
 with col1: 
 	st.caption("Language: C++") 
