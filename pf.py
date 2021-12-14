@@ -4,6 +4,8 @@ from PIL import Image
 
 st.title("Game Academic Projects") 
 
+st.markdown("---") 
+
 st.header("VR Healthcare System for Patients with Trypanophobia") 
 st.caption("Final Year Project (Jul 2020 ~ Mar 2021)") 
 st.write("Virtual reality game which combats needle fear among pediatric patients.") 
@@ -13,6 +15,8 @@ with col1:
 	st.caption("Language: C#") 
 with col2: 
 	st.caption("Framework: Google VR SDK, Unity, Visual Studio") 
+
+st.markdown("---") 
 
 st.header("Lost Robot") 
 st.caption("Game Physics (Nov 2020 ~ Mar 2021)") 
@@ -24,6 +28,8 @@ with col1:
 with col2: 
 	st.caption("Framework: Box2D, SFML, OpenGL") 
 
+st.markdown("---") 
+
 st.header("Upgrade") 
 st.caption("3D Game Programming (Nov 2020 ~ Mar 2021)") 
 st.write("3D action platformer game developed to explore the utilities of the Unity Engine.") 
@@ -33,6 +39,8 @@ with col1:
 	st.caption("Language: C#") 
 with col2: 
 	st.caption("Framework: Unity, Visual Studio") 
+
+st.markdown("---") 
 
 st.header("MagnifiCast") 
 st.caption("Game Production (Nov 2020 ~ Mar 2021)") 
@@ -44,6 +52,8 @@ with col1:
 with col2: 
 	st.caption("Framework: Android, Unity, Visual Studio") 
 
+st.markdown("---") 
+
 st.header("Todd") 
 st.caption("Game Design Fundamentals (Nov 2019 ~ Mar 2020)") 
 st.write("2D platformer web game built with emphasis on level design and 2D sprite managements.") 
@@ -53,6 +63,8 @@ with col1:
 	st.caption("Language: JavaScript") 
 with col2: 
 	st.caption("Framework: Phaser2, Visual Studio") 
+
+st.markdown("---") 
 
 st.header("Violet World") 
 st.caption("Computer Graphic Fundamentals (Nov 2019 ~ Mar 2020)") 
