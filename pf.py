@@ -8,8 +8,11 @@ st.header("VR Healthcare System for Patients with Trypanophobia")
 st.caption("Final Year Project (Jul 2020 ~ Mar 2021)") 
 st.write("Virtual reality game which combats needle fear among pediatric patients.") 
 st_player("https://nd67kg.dm.files.1drv.com/y4mNYdxjro5bFm0IuSoOFcIyGea9299G2qvlDBWZ-J4VxYxkGbpGqoSTn36Fn8HiwckxEWLukDZhsxMJ0y-cR6C83X6P0RKqrThnCeI9yZsueUS_tvmOK_L6xjs4j_zvWaWiLiyG6YjvB7nyYFI4jptKM0cb47abzxpIz5Kz5NZkE0pZaK_JvkzIPZTLY98n_OWBcq0ylS4LtPw4Bb5D65QKQ") 
-st.caption("Language: C#") 
-st.caption("Framework: Google VR SDK, Unity, Visual Studio") 
+col1, col2 = st.columns(2) 
+with col1: 
+	st.caption("Language: C#") 
+with col2: 
+	st.caption("Framework: Google VR SDK, Unity, Visual Studio") 
 
 st.header("Lost Robot") 
 st.caption("Game Physics (Nov 2020 ~ Mar 2021)") 
