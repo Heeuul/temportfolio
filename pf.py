@@ -27,7 +27,7 @@ with col2:
 st.header("Upgrade") 
 st.caption("3D Game Programming (Nov 2020 ~ Mar 2021)") 
 st.write("3D action platformer game developed to explore the utilities of the Unity Engine.") 
-st_player("https://nd7gkg.dm.files.1drv.com/y4m3Xxb2GcNMOVZdCvbvGtg0e5NIMAvcvhQuDdxcW9tZ1FN8AZcOMfplpnZUvYr-xEtcmHPhXFMuP4Uu49OiM_mCf1WpQmlx7z7ekEnwPfSjhhFiV9anQ-4oklvkTYX57lRPiph3d5RFHsVb8nf0RGETzI-sAlatz58l3Q_caUFRkOj7PfVm_h9IpZgfCerIVm6Pj-eDtZwCuM748FJHhvt4A") 
+st.video("https://nd7gkg.dm.files.1drv.com/y4m3Xxb2GcNMOVZdCvbvGtg0e5NIMAvcvhQuDdxcW9tZ1FN8AZcOMfplpnZUvYr-xEtcmHPhXFMuP4Uu49OiM_mCf1WpQmlx7z7ekEnwPfSjhhFiV9anQ-4oklvkTYX57lRPiph3d5RFHsVb8nf0RGETzI-sAlatz58l3Q_caUFRkOj7PfVm_h9IpZgfCerIVm6Pj-eDtZwCuM748FJHhvt4A") 
 col1, col2 = st.columns(2) 
 with col1: 
 	st.caption("Language: C#") 
@@ -37,7 +37,7 @@ with col2:
 st.header("MagnifiCast") 
 st.caption("Game Production (Nov 2020 ~ Mar 2021)") 
 st.write("Tower defense mobile game developed from competitive analysis of mechanically similar games on the market.") 
-st.video("https://nd68kg.dm.files.1drv.com/y4m5yAghoSk16j_D0kAr-Rys-ODulmrCM9do9gtYJ_picdCwS1dBAv_fo00AU_wmNotsVEsV6WhTqrb2KCPOWRDsoqJBYi4NZkSZY2oU4K5adDFKI3Qa9YogLh7YlkyNoXGtgOe_rAzKAA4il6B1_AZm3Yihv_3Cc207PNxlWWeyCKX3FSn2XVTDHlD9KxbwGaFoj3WzvaeG7W2tBPR3bwBpg") 
+st_player("https://nd68kg.dm.files.1drv.com/y4m5yAghoSk16j_D0kAr-Rys-ODulmrCM9do9gtYJ_picdCwS1dBAv_fo00AU_wmNotsVEsV6WhTqrb2KCPOWRDsoqJBYi4NZkSZY2oU4K5adDFKI3Qa9YogLh7YlkyNoXGtgOe_rAzKAA4il6B1_AZm3Yihv_3Cc207PNxlWWeyCKX3FSn2XVTDHlD9KxbwGaFoj3WzvaeG7W2tBPR3bwBpg") 
 col1, col2 = st.columns(2) 
 with col1: 
 	st.caption("Language: C#") 
